@@ -43,4 +43,5 @@ class AppStrings {
 // Category - https://api.spoonacular.com/recipes/complexSearch?apiKey=93ed1c51fb2745339440843df604c23a&cuisine=Italian
 // Search - https://api.spoonacular.com/recipes/complexSearch?apiKey=93ed1c51fb2745339440843df604c23a&query=pasta
 // apiKey= e86f13728c9b40f0baa406fda267827d
+// apiKey= 9d28675de20041688187ce3bd76bbdbd
 }
