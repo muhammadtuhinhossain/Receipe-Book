@@ -2,7 +2,7 @@ class AppStrings {
   static const String appName = 'Recipe App';
 
   // API Constants
-  static const String apiKey = '9d28675de20041688187ce3bd76bbdbd';
+  static const String apiKey = 'e86f13728c9b40f0baa406fda267827d';
 
   // UI Strings
   static const String categories = 'Categories';
@@ -25,6 +25,12 @@ class AppStrings {
   static const String defaultRating = '5.0';
   static const String mins = ' mins';
   static const String servings = ' servings';
+  static const String cal = ' Cal';
+  static const String description = 'Description';
+  static const String readMore = 'Read More';
+  static const String readLess = 'Read Less';
+  static const String watchVideos = 'Watch Videos';
+  static const String difficultyMedium = 'Medium';
 
   // Constants
   static const List<String> recipeCategories = [
@@ -45,3 +51,55 @@ class AppStrings {
 // apiKey= e86f13728c9b40f0baa406fda267827d
 // apiKey= 9d28675de20041688187ce3bd76bbdbd
 }
+
+
+
+
+
+// class AppStrings {
+//   static const String appName = 'Recipe App';
+//
+//   // API Constants
+//   static const String apiKey = 'e86f13728c9b40f0baa406fda267827d';
+//
+//   // UI Strings
+//   static const String categories = 'Categories';
+//   static const String searchRecipes = 'Search Recipes';
+//   static const String favorites = 'Favorites';
+//   static const String ingredients = 'Ingredients';
+//   static const String instructions = 'Instructions';
+//   static const String noRecipesFound = 'No recipes found.';
+//   static const String noFavoritesYet = 'No favorite recipes yet.';
+//   static const String noInstructions =
+//       'Instructions not available for this recipe.';
+//   static const String searchHint = 'Search for pasta, chicken...';
+//
+//   // Newly Added UI Strings
+//   static const String welcomeBack = 'Welcome Back ';
+//   static const String letsCook = 'Let\'s Cook!';
+//   static const String recipeDetails = 'Recipe Details';
+//   static const String failedToLoadRecipe = 'Failed to load recipe details.';
+//   static const String typeToSearch = 'Type to search for recipes.';
+//   static const String defaultRating = '5.0';
+//   static const String mins = ' mins';
+//   static const String servings = ' servings';
+//
+//   // Constants
+//   static const List<String> recipeCategories = [
+//     'Italian',
+//     'Mexican',
+//     'Asian',
+//     'American',
+//     'Indian',
+//   ];
+//
+//   static const String baseUrl = 'https://api.spoonacular.com/recipes';
+//   static const String profileImageUrl =
+//       'https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg';
+//
+// // Item details Api - https://api.spoonacular.com/recipes/798400/information?apiKey=93ed1c51fb2745339440843df604c23a
+// // Category - https://api.spoonacular.com/recipes/complexSearch?apiKey=93ed1c51fb2745339440843df604c23a&cuisine=Italian
+// // Search - https://api.spoonacular.com/recipes/complexSearch?apiKey=93ed1c51fb2745339440843df604c23a&query=pasta
+// // apiKey= e86f13728c9b40f0baa406fda267827d
+// // apiKey= 9d28675de20041688187ce3bd76bbdbd
+// }

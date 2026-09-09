@@ -17,6 +17,7 @@ class AppColors {
   static const Color black = Colors.black;
   static const Color grey = Colors.grey;
   static const Color grey200 = Color(0xFFEEEEEE);
+  static const Color grey300 = Color(0xFFE0E0E0);
   static const Color white70 = Colors.white70;
   static const Color starColor = Color(0xFFFFD700);
   static const Color customOverlay = Color(0x66000000);
